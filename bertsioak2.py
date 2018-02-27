@@ -7,5 +7,4 @@ Created on 27 feb. 2018
 if __name__ == '__main__':
     pass
 
-print('Kaixo bertsioak')
-print('Gure lehenengo aldaketak')
+print('bertsioak2')

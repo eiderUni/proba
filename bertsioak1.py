@@ -9,3 +9,5 @@ if __name__ == '__main__':
 
 print('Kaixo bertsioak')
 print('Gure lehenengo aldaketak')
+
+print('testing aldaketak')

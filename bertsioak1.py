@@ -12,3 +12,4 @@ print('Gure lehenengo aldaketak')
 
 print('testing aldaketak')
 print('githubeko lehenengo aldaketa')
+print('push')

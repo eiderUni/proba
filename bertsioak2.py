@@ -10,4 +10,6 @@ if __name__ == '__main__':
 print('bertsioak2')
 print('bertsioak2')
 
+print('Eider Aldaketa')
+
 

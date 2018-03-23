@@ -9,7 +9,11 @@ if __name__ == '__main__':
 
 print('bertsioak2')
 print('bertsioak2')
+<<<<<<< HEAD
 
 print('Eider Aldaketa')
 
+=======
+print('enautek bat')
+>>>>>>> branch 'master' of https://github.com/eiderUni/proba.git
 
